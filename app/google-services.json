@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "682454725503",
+    "project_id": "phamkientrungck",
+    "storage_bucket": "phamkientrungck.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682454725503:android:980d28b0b972e5031a204a",
+        "android_client_info": {
+          "package_name": "com.example.a18_18033661_phamkientrung"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682454725503-drgpntvpdqqrn3orq4qieuip6lims31h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRoWoZloPLhVwMeH2frawIaN7V1oiGP3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682454725503-drgpntvpdqqrn3orq4qieuip6lims31h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
